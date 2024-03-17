@@ -18,3 +18,6 @@
 <h1>
   Instructions
 </h1>
+<p>
+  Click on "UX2 LetsGo App (2) (1).pptx" and then click on "View Raw" to dowload the Power Point 
+</p>
